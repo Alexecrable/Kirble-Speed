@@ -1,0 +1,43 @@
+#boutons{
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    width: 50%;
+    justify-content: space-around;
+}
+
+
+main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+#sider{
+    width: 10%;
+    margin: 30px;
+}
+#centercont{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    align-items: center;
+    width: 80%;
+        margin:30px;
+}
+
+#milieu>img{
+    height:30%;
+    border: 5px solid black;
+}
+
+#joueur>img{
+    height:30%;
+    border: 5px solid black;
+}
+
+
+tr{
+    display : block;
+}

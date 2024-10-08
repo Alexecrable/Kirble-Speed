@@ -1,0 +1,13 @@
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#couronne>img{
+    height:50px;
+    width:50px;
+}
+
+

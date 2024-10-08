@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/listeParties.jsp</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/listeJoueurs.jsp</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/src/java/JeuClasses/Paquet.java</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/src/java/DAOJungleSpeed/DAO_JPA_Partie.java</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/login.html</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/src/java/WebSockets/ReglagePartie.java</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/Scripts/LancementPartie.js</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/src/java/WebSockets/ModifCompte.java</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/src/java/WebSockets/Connexion.java</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/infoCompte.html</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/Inscription.html</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/Scripts/CreationTableauJeu.js</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/Scripts/FaireChoix.js</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/Scripts/matchmaking.js</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/Styles/style.css</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/src/java/WebSockets/JeuWebSocket.java</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/Scripts/reglagePartieHote.js</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/src/java/JeuClasses/Carte.java</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/src/java/Servlets/InfoJoueur.java</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/Scripts/RecupServletJoueur.js</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/regles.html</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/src/java/Servlets/ReglagePartie.java</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/src/java/JeuClasses/JoueurPartieStatPK.java</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/Scripts/CreationTableauMatchmaking.js</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/src/java/WebSockets/Matchmaking.java</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/Styles/bouton_aux.css</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/Scripts/deroulementJeuInvit.js</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/Scripts/AffichageCartes.js</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/Scripts/UpdateScore.js</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/Scripts/reglagePartieInvit.js</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/src/java/Servlets/JeuServlet.java</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/src/java/Servlets/infoStat.java</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/src/java/JeuClasses/Partie.java</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/src/java/JeuClasses/JoueurPartieStat.java</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/Styles/jeu.css</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/src/java/JeuClasses/Joueur.java</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/Scripts/verifCo.js</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/src/java/WebSockets/CreationCompte.java</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/matchmaking.html</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/Scripts/InitPartie.js</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/index.html</file>
+            <file>file:/home/alexecrable/NetBeansProjects/Projet_DWA/web/Scripts/deroulementJeuHote.js</file>
+        </group>
+    </open-files>
+</project-private>

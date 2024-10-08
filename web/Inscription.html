@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="Scripts/creationCompte.js" defer></script>
+    <script src="Scripts/verifCo.js" defer></script>
+    <link rel="stylesheet" href="Styles/style.css">
+    <link rel="stylesheet" href="Styles/formulaire.css">
+    <link rel="stylesheet" href="Styles/bouton_aux.css">
+    <title>Inscription</title>
+</head>
+<body>
+    <header>
+        <div class="cote_bandeau"><a rel="noopener noreferrer" href="http://localhost:8080/Projet_DWA/"><img src="images/kirbhome.png" alt="accueil"></a></div>
+        <div>
+            <h1>KIRBLE SPEED</h1>
+        </div>
+        <div class="cote_bandeau" id="Compte"></div>
+    </header>
+    <main>
+        <form id="creationCompte">
+            
+            <div>
+                <label>Pseudo</label>
+                <input name="pseudo" id="pseudo" value="">
+            </div>
+
+            <div>
+                <label>Mot De Passe</label>
+                <input name="mdp" id="mdp" value="">
+            </div>
+
+            <div>
+                <label>Date de naissance</label>
+                <input name="age" id="age" type="date" value="">
+            </div>
+
+            <div>
+                <label>Genre</label>
+                <select id="genre" name="genre">
+                    <option value="Homme">Homme</option>
+                    <option value="Femme">Femme</option>
+                    <option value="Autre">Autre</option>
+                </select>
+            </div>
+           
+           <div>
+            <button type="submit">envoyer</button>
+            <button type="reset">reset</button>
+           </div>
+            <label id="info"></label>
+        </form>
+    </main>
+
+    <footer>
+        <div class="cote_bandeau"><a rel="noopener noreferrer" target="blank" href="regles.html"><img src="images/regles.png" alt="regles"></a></div>
+        <div>LATTARD & PENNE</div>
+        <div class="cote_bandeau"><img src="images/logo.png" alt="Logo"></div>
+    </footer>
+</body>
+</html>
